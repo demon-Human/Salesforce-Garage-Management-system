@@ -1,3 +1,7 @@
+video :https://drive.google.com/file/d/130zutAUA9E55rpRAY9_rBEvDPAM6O2cJ/view?usp=drive_link
+
+
+
 //code for  AmountDistributionHandler
 
 public class AmountDistributionHandler { 
@@ -29,6 +33,10 @@ app.Replacement_Parts__c == true){
     } 
     } 
 }
+
+
+
+
 //code for AmountDistribution
  
 trigger AmountDistribution on Appointment__c (before insert, before update) { 
